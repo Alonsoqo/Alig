@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot",
+  "description": "Bot de Telegram alojado en Railway",
+  "require": {
+    "ext-json": "*"
+  }
+}
